@@ -2,6 +2,7 @@ echo "# testpr" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
+Hello! Thanks for stopping by
 git remote add origin https://github.com/catgonza/testpr.git
 git push -u origin master
                 
